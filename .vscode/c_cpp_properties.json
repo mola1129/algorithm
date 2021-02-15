@@ -5,7 +5,7 @@
            "intelliSenseMode": "gcc-x64",
            "compilerPath": "/usr/bin/gcc",
            "includePath": [
-               "${workspaceFolder}/**"
+               "${workspaceFolder}/src/**"
             ],
             "defines": [],
             "cStandard": "c11",
