@@ -38,5 +38,4 @@ int main() {
   }
 
   std::cout << dp[N][W] << std::endl;
-  `
 }
